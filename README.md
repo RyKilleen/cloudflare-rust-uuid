@@ -7,7 +7,7 @@ Currently works on Linux/WSL out of the box, [Perl a required Cloudflare depende
 3. http://localhost:8787/uuid
 4. http://localhost:8787/uuid/100
 
-
+For a preview, visit https://cf-worker-test.rykilleen.workers.dev/uuid/1000
 ___
 
 
