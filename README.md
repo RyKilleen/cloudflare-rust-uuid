@@ -1,6 +1,6 @@
 # Quickstart
 
-Currently works on Linux/WSL out of the box, [Perl a required dependency on Windows](https://developers.cloudflare.com/workers/cli-wrangler/install-update)
+Currently works on Linux/WSL out of the box, [Perl a required Cloudflare dependency on Windows](https://developers.cloudflare.com/workers/cli-wrangler/install-update)
 
 1. `cargo install wrangler`
 2. `wrangler dev`
