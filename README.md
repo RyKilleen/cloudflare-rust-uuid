@@ -8,6 +8,7 @@ Currently works on Linux/WSL out of the box, [Perl a required Cloudflare depende
 4. http://localhost:8787/uuid/100
 
 For a preview, visit https://cf-worker-test.rykilleen.workers.dev/uuid/1000
+(Please be considerate of my budget and only run uuid/100000 a few times :D)
 ___
 
 
